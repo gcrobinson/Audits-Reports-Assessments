@@ -1,22 +1,26 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Security Audit - Botium Toys</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+
+The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. This is a review of the assets Botium Toys has and the controls and compliance practices they have in place. This is an assessment of the existing assets and a completed controls and compliance checklist on which controls and compliance best practices need to be implemented to improve Botium Toys’ security posture. 
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Scenario</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
-- <b>Windows 10</b> (21H2)
+The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
 
-<h2>Program walk-through:</h2>
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. <i>This scenario is based on a fictional company.<i/>
+
+
+- [Scope, goals and Risk assessment report](https://docs.google.com/document/d/1xGgMzcALxUFfM4_kZ2lfb7NtUdcZXd5Za8eUp6eHwxw/edit?usp=sharing)
+
+<h2>Controls and Compliance checklist:</h2>
 
 <p align="center">
 Launch the utility: <br/>
