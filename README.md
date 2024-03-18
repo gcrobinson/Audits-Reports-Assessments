@@ -1,6 +1,8 @@
 <h1>Security Audit - Botium Toys</h1>
 
 
+
+
 <h2>Description</h2>
 
 The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. This is a review of the assets Botium Toys has and the controls and compliance practices they have in place. This is an assessment of the existing assets and a completed controls and compliance checklist on which controls and compliance best practices need to be implemented to improve Botium Toys’ security posture. 
@@ -20,43 +22,18 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 - [Scope, goals and Risk assessment report](https://docs.google.com/document/d/1xGgMzcALxUFfM4_kZ2lfb7NtUdcZXd5Za8eUp6eHwxw/edit?usp=sharing)
 
-<h2>Controls and Compliance checklist:</h2>
-
+<h2>Controls and Compliance Audit:</h2>
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Controls checklist: <br/>
+<img src="https://i.imgur.com/go08A5j.png" height="80%" width="80%" alt="Scope, goals, and risk assement checklist"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PCI DSS and GDPR:  <br/>
+<img src="https://i.imgur.com/sUKYVDj.png" height="80%" width="80%" alt="Scope, goals, and risk assement checklist"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SOC Type 1 and Type 2: <br/>
+<img src="https://i.imgur.com/GzIDpyn.png" height="80%" width="80%" alt="Scope, goals, and risk assement checklist"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
