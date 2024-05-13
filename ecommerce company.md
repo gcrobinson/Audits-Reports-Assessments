@@ -9,7 +9,7 @@ I am tasked with completing a vulnerability assessment of the situation to commu
 <h2>Report</h2>
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/malNnqU.png[/img]" height="80%" width="80%" alt="Scope, goals, and risk assement checklist"/>
+<img src="https://i.imgur.com/malNnqU.png[/img]" height="80%" width="80%" alt="vulnerability report 1"/>
 <p align="center">
-<img src="https://i.imgur.com/7XOuZjE.png[/img]" height="80%" width="80%" alt="Scope, goals, and risk assement checklist"/>
+<img src="https://i.imgur.com/7XOuZjE.png[/img]" height="80%" width="80%" alt="Vulnerability report 2"/>
 <br />
